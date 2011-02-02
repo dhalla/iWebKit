@@ -34,14 +34,6 @@
                 </p>    
             </li>
             <li class="textbox">
-                <span class="header">Redaktion und Konzeption</span>
-                <p>Jessika Maria Rauch M.A.<br />E-Mail: <a href="mailto:jessika.rauch@bdew.de">jessika.rauch@bdew.de</a></p>
-            </li>
-            <li class="textbox">
-                <span class="header">EDV</span>
-                <p>Dipl.-Ing. Peter Lehmann<br />E-Mail: <a href="mailto:peter.lehmann@bdew.de">peter.lehmann@bdew.de</a></p>
-            </li>
-            <li class="textbox">
                 <span class="header">Rechtshinweis samt Haftungsausschluss</span>
                 <p>Alle in den Internetseiten des Bundesverband der Energie- und Wasserwirtschaft e.V. (im Folgenden "BDEW") enthaltenen Angaben und Informationen wurden vom BDEW sorgfältig recherchiert und geprüft. Diese Informationen sind ein Service des Verbandes. Der BDEW übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit, Qualität oder wettbewerbsrechtliche Zulässigkeit der bereitgestellten Informationen.</p>
                 <p>Alle Informationen dienen ausschließlich zur Information der Besucher des Onlineangebotes. </p>
